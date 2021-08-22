@@ -16,7 +16,7 @@
 
 #pragma once
 
-// place overrides here
+#define DYNAMIC_KEYMAP_LAYER_COUNT 3
 
 #define TAPPING_TOGGLE 2
 #define RGBLIGHT_LAYERS
